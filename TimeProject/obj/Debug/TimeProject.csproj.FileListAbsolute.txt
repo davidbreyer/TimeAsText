@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\bin\Debug\TimeProject.exe.config
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\bin\Debug\TimeProject.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\bin\Debug\TimeProject.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\obj\Debug\TimeProject.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\obj\Debug\TimeProject.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\obj\Debug\TimeProject.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\bin\Debug\ClockLibrary.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\bin\Debug\ClockLibrary.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\obj\Debug\TimeProject.csproj.CopyComplete
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeProject\obj\Debug\TimeProject.csprojAssemblyReference.cache

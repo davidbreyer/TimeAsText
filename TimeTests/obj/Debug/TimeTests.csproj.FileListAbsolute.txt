@@ -1,0 +1,16 @@
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\TimeTests.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\TimeTests.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\ClockLibrary.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\ClockLibrary.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\obj\Debug\TimeTests.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\obj\Debug\TimeTests.csproj.CopyComplete
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\obj\Debug\TimeTests.dll
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\obj\Debug\TimeTests.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\TimeProject\TimeTests\obj\Debug\TimeTests.csprojAssemblyReference.cache
